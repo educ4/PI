@@ -1,0 +1,17 @@
+.container{
+    margin: 50px;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 10px;
+    background-color: rgb(5, 29, 51);
+    color: white;
+    border-radius: 11px;
+    justify-content: center;
+    padding: 20px;
+    
+}

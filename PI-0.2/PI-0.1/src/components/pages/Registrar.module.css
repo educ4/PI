@@ -1,0 +1,32 @@
+.container{
+    width: 500px;
+    margin:2em 0;
+    background-color: rgb(5, 29, 51);
+    height: 75%;
+    color: white;
+    border-radius: 11px;
+    padding: 20px;
+    margin: 45px;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.form{
+    width: 100%;
+    margin:2em 0;
+    box-sizing: border-box;
+    
+    
+}
+
+.buttonBox{
+    display: flex;
+    gap: 50px;
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    padding: 0;
+}

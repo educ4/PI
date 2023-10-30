@@ -1,0 +1,10 @@
+.caixa{
+    background-color: black;
+    max-width: 250px;
+    max-height: 350px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
